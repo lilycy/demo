@@ -1,0 +1,11 @@
+.svn
+target/
+.idea/
+
+*.bak
+*.iml
+*.versionsBackup
+.DS_Store
+.project
+.settings
+.classpath
