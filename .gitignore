@@ -2,6 +2,7 @@
 target/
 .idea/
 
+out/
 *.bak
 *.iml
 *.versionsBackup
